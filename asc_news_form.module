@@ -1,0 +1,3 @@
+<?php
+
+include_once('asc_news_form.features.inc');
